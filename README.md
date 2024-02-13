@@ -131,7 +131,7 @@ Aulas no programa atualizado da disciplina:
 3. Análise Facial
 4. Alinhamento de faces
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-4-classificacao-objetos-analise-facial/classificacao-objetos-analise-facial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k52vuUuwGoV2q-U9AQO3Ej_jmQIHxI3J#scrollTo=PzqNSgJStuBx)
 
 ### Desafios
 
@@ -152,7 +152,7 @@ Aulas no programa atualizado da disciplina:
 2. Técnicas de transferência de aprendizado (*transfer learning*)
 3. Reconhecimento de objetos com YOLO (You Only See Once).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-5-machine-learning-aplicado/reconhecimento-de-imagens-e-objetos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B5WuEMi_V-ddVWANFCn_ol-ISzTW4JbA#scrollTo=-1j1JRT9vwIJ)
 
 ### Desafio
 
