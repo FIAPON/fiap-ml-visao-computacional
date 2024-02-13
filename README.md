@@ -1,6 +1,5 @@
 ![](https://img.shields.io/github/repo-size/michelpf/fiap-ml-visao-computacional)
 ![](https://img.shields.io/github/issues/michelpf/fiap-ml-visao-computacional)
-![](https://img.shields.io/github/stars/michelpf/fiap-ml-visao-computacional)
 ![](https://img.shields.io/github/watchers/michelpf/fiap-ml-visao-computacional)
 ![](https://img.shields.io/github/last-commit/michelpf/fiap-ml-visao-computacional)
 
@@ -13,7 +12,7 @@ Informações sobre o curso acesse [aqui](https://www.fiap.com.br/mba/mba-em-art
 
 Este repositório reúne todos os notebooks, imagens, modelos e demais materiais necessário para a condução das aulas e revisão das mesmas.
 
-Utilize as [discussões](https://github.com/michelpf/fiap-ml-visao-computacional/discussions) ou mesmo crie [issues](https://github.com/michelpf/fiap-ml-visao-computacional/issues) se precisar de alguma informação.
+Utilize o [issues](https://github.com/FIAPON/fiap-ml-visao-computacional/issues) para relatar algum problema.
 
 Como é um repositório público, aceito eventuais Pull Requests!
 
@@ -58,14 +57,14 @@ Aulas no programa atualizado da disciplina:
 5. Histograma
 6. Construção de imagens
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-1-introducao-visao-computacional/introducao-visao-computacional.ipynb) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/18ZQEJcCbjKKajs6sB24cMRwsw51Dghn7/view?usp=drive_link) 
 
 ### Desafio
 
 1. Identificação de cores 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-1-introducao-visao-computacional/desafio-1/desafio-1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Q7lQd_EaYU15UQ9jOXi0IMQxFIN18QVE/view?usp=drive_link)
 
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-1-introducao-visao-computacional/desafio-1/desafio-1-solucao.ipynb) 
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1XExtXjFKoAJaCF8IH0zXz2T4n2cBE931/view?usp=drive_link) 
 
 
 ## Manipulação de imagens (Aula 2)
