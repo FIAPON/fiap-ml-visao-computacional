@@ -57,7 +57,7 @@ Aulas no programa atualizado da disciplina:
 5. Histograma
 6. Construção de imagens
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/18ZQEJcCbjKKajs6sB24cMRwsw51Dghn7/view?usp=drive_link) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ZQEJcCbjKKajs6sB24cMRwsw51Dghn7) 
 
 ### Desafio
 
