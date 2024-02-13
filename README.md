@@ -62,9 +62,9 @@ Aulas no programa atualizado da disciplina:
 ### Desafio
 
 1. Identificação de cores 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Q7lQd_EaYU15UQ9jOXi0IMQxFIN18QVE/view?usp=drive_link)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q7lQd_EaYU15UQ9jOXi0IMQxFIN18QVE)
 
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1XExtXjFKoAJaCF8IH0zXz2T4n2cBE931/view?usp=drive_link) 
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XExtXjFKoAJaCF8IH0zXz2T4n2cBE931) 
 
 
 ## Manipulação de imagens (Aula 2)
