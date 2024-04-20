@@ -168,3 +168,8 @@ Projetos de conclusão da disciplina aplicados.
 1. [Análise de Imagens Médicas](https://github.com/michelpf/fiap-ml-visao-computacional-analise-imagens-medicas)
 2. [Auditoria de Vídeo](https://github.com/michelpf/fiap-ml-visao-computacional-auditoria-video)
 3. [Detector de Liveness](https://github.com/michelpf/fiap-ml-visao-computacional-detector-liveness)
+
+
+## Agradecimentos:
+
+Esse repositório é baseado no repositório do prof. Michel, agradecemos ao ceder ao uso dos programas bases
