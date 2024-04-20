@@ -57,14 +57,14 @@ Aulas no programa atualizado da disciplina:
 5. Histograma
 6. Construção de imagens
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18ZQEJcCbjKKajs6sB24cMRwsw51Dghn7) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-1-introducao-visao-computacional/introducao-visao-computacional.ipynb)
 
 ### Desafio
 
 1. Identificação de cores 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q7lQd_EaYU15UQ9jOXi0IMQxFIN18QVE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-1-introducao-visao-computacional/desafio-1/desafio-1.ipynb)
 
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XExtXjFKoAJaCF8IH0zXz2T4n2cBE931) 
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-1-introducao-visao-computacional/desafio-1/desafio-1-solucao.ipynb) 
 
 
 ## Manipulação de imagens (Aula 2)
@@ -79,23 +79,23 @@ Aulas no programa atualizado da disciplina:
 6. Masking
 7. Suavização
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-2-transformacao/transformacao-imagens.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/transformacao-imagens.ipynb)
 
 ### Desafios
 
-1. Transformação de imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-2-transformacao/desafio-1/desafio-1.ipynb) 
+1. Transformação de imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-1/desafio-1.ipynb) 
 
     Solução
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-2-transformacao/desafio-1/desafio-1-solucao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-1/desafio-1-solucao.ipynb)
 
-2. Máscaras em imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-2-transformacao/desafio-2/desafio-2.ipynb)
+2. Máscaras em imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-2/desafio-2.ipynb)
 
     Solução
-    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-2-transformacao/desafio-2/desafio-2-solucao.ipynb)
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-2/desafio-2-solucao.ipynb)
 
-3. Pipeline machine learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-2-transformacao/desafio-3/desafio-3.ipynb)
+3. Pipeline machine learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-3/desafio-3.ipynb)
 
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-2-transformacao/desafio-3/desafio-3-solucao.ipynb)
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-3/desafio-3-solucao.ipynb)
 
 
 ## Segmentação de imagens (Aula 3)
@@ -109,17 +109,17 @@ Aulas no programa atualizado da disciplina:
 4. Contornos
 5. Identificação de Formas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-3-segmentacao/segmentacao.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/segmentacao.ipynb)
 
 ### Desafios
 
-1. Contornos em imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-3-segmentacao/desafio-1/desafio-1.ipynb)
+1. Contornos em imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-1/desafio-1.ipynb)
 
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-3-segmentacao/desafio-1/desafio-1-solucao.ipynb)
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-1/desafio-1-solucao.ipynb)
 
-2. Limpeza de imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-3-segmentacao/desafio-2/desafio-2.ipynb)
+2. Limpeza de imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-2/desafio-2.ipynb)
 
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-3-segmentacao/desafio-2/desafio-2-solucao.ipynb)
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-2/desafio-2-solucao.ipynb)
 
 
 ## Classificação de objetos e análise facial (Aula 4)
@@ -131,17 +131,17 @@ Aulas no programa atualizado da disciplina:
 3. Análise Facial
 4. Alinhamento de faces
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k52vuUuwGoV2q-U9AQO3Ej_jmQIHxI3J#scrollTo=PzqNSgJStuBx)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-classificacao-objetos-analise-facial/classificacao-objetos-analise-facial.ipynb)
 
 ### Desafios
 
-1. Detecção de sorriso [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-1/desafio-1.ipynb)
+1. Detecção de sorriso [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-classificacao-objetos-analise-facial/desafio-1/desafio-1.ipynb)
     
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-1/desafio-1-solucao.ipynb)
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-classificacao-objetos-analise-facial/desafio-1/desafio-1-solucao.ipynb)
 
-2. Classificação de emoções com marcos faciais [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-2/desafio-2.ipynb)
+2. Classificação de emoções com marcos faciais [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-classificacao-objetos-analise-facial/desafio-2/desafio-2.ipynb)
 
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-4-classificacao-objetos-analise-facial/desafio-2/desafio-2-solucao.ipynb)
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-classificacao-objetos-analise-facial/desafio-2/desafio-2-solucao.ipynb)
 
 
 ## Machine learning, deep learning e transfer learning aplicado a imagens (Aula 5)
@@ -152,13 +152,13 @@ Aulas no programa atualizado da disciplina:
 2. Técnicas de transferência de aprendizado (*transfer learning*)
 3. Reconhecimento de objetos com YOLO (You Only See Once).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1B5WuEMi_V-ddVWANFCn_ol-ISzTW4JbA#scrollTo=-1j1JRT9vwIJ)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-5-machine-learning-aplicado/reconhecimento_de_imagens_e_objetos.ipynb)
 
 ### Desafio
 
-1. Detecção de Lixo em Ruas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-5-machine-learning-aplicado/desafio-1/desafio-1.ipynb)
+1. Detecção de Lixo em Ruas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-5-machine-learning-aplicado/desafio-1/desafio-1.ipynb)
     
-    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/fiap-ml-visao-computacional/blob/master/aula-5-machine-learning-aplicado/desafio-1/desafio-1-solucao.ipynb)
+    Solução [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-5-machine-learning-aplicado/desafio-1/desafio-1-solucao.ipynb)
 
 
 ## Capstones
@@ -172,4 +172,4 @@ Projetos de conclusão da disciplina aplicados.
 
 ## Agradecimentos:
 
-Esse repositório é baseado no repositório do prof. Michel, agradecemos ao ceder ao uso dos programas bases
+Esse repositório é baseado no repositório do prof. Michel, agradecemos ao ceder o uso dos programas bases
