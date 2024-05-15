@@ -154,6 +154,7 @@ Aulas no programa atualizado da disciplina:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/FIAPON/fiap-ml-visao-computacional/blob/main/aula-5-machine-learning-aplicado/reconhecimento_de_imagens_e_objetos.ipynb)
 
+
 ### Desafio
 
 1. Detecção de Lixo em Ruas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-5-machine-learning-aplicado/desafio-1/desafio-1.ipynb)
