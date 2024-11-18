@@ -110,6 +110,9 @@ Aulas no programa atualizado da disciplina:
 
 2. Limpeza de imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-2/desafio-2.ipynb)
 
+2. Contando Moedas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-3/desafio-3.ipynb)
+
+
 
 ## Classificação de objetos e análise facial (Aula 4)
 
