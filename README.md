@@ -90,6 +90,8 @@ Aulas no programa atualizado da disciplina:
    
 3. Pipeline machine learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-3/desafio-3.ipynb)
 
+4. Estudo de caso Classificacao de Imagens atraves do Histograma [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/estudo-caso-histograma/classifier_histogram.ipynb)
+
 
 ## Segmentação de imagens (Aula 3)
 
