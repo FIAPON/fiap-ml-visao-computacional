@@ -116,16 +116,16 @@ Aulas no programa atualizado da disciplina:
 
 
 
-## Classificação de objetos e análise facial (Aula 4)
+## Análise facial (Aula 4)
 
-### Classificadores de objetos e análise facial
+### Análise facial
 
 1. Classificadores em cascata de Haar
 2. Classificador de marcos faciais DLib
 3. Análise Facial
 4. Alinhamento de faces
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-analise-facial/classificacao-objetos-analise-facial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-analise-facial/Analise_facial.ipynb)
 
 ### Desafios
 
