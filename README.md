@@ -125,7 +125,7 @@ Aulas no programa atualizado da disciplina:
 3. Análise Facial
 4. Alinhamento de faces
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-analise-facial/Analise_facial.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-analise-facial/Valendo_de_classificacao_objetos_analise_facial.ipynb)
 
 ### Desafios
 
