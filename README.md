@@ -57,7 +57,9 @@ Aulas no programa atualizado da disciplina:
 5. Histograma
 6. Construção de imagens
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-1-introducao-visao-computacional/introducao-visao-computacional.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-1-introducao-visao-computacional/introducao_visao_computacional.ipynb)
+
+
 
 ### Desafio
 
