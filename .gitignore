@@ -4,6 +4,7 @@ aula-5-machine-learning-aplicado/pesos/
 aula-5-machine-learning-aplicado/eingen-faces/fiap/
 
 .ipynb_checkpoints
+.ipynb_*
 *.weights
 **/.DS_Store
 
@@ -84,7 +85,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+.ipynb_*
 
 # IPython
 profile_default/
