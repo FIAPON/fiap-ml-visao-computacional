@@ -6,7 +6,7 @@
 
 # FIAP MBA em Machine Learning e Inteligência Artificial
 
-Informações sobre o curso acesse [aqui](https://www.fiap.com.br/mba/mba-em-artificial-intelligence-e-machine-learning/).
+Informações sobre o curso acesse [aqui](https://www.fiap.com.br/mba/).
 
 ![alt text](image/computer-vision.png)
 
@@ -34,15 +34,25 @@ Veja [esta](https://github.com/michelpf/fiap-ml-tec-proc-imagens/blob/master/uti
 
 ### Pacotes utilizados
 
-* [OpenCV](https://opencv.org/) 3.4.3 (```conda install -c conda-forge opencv==3.4.3```)
-* [Keras](https://keras.io/) 2.3.1 (```conda install keras==2.3.1```)
-* [Matplotlib](https://matplotlib.org/) 3.1.3 (```conda install matplotlib==3.1.3```)
-* [Seaborn](https://seaborn.pydata.org/) 0.0.10 (```conda install -c conda-forge seaborn==0.10.0```)
-* [Imutils](https://pypi.org/project/imutils/) 0.5.3 (```conda install -c conda-forge imutils==0.5.3```)
-* [Scikit Learn](https://scikit-learn.org/stable/) 0.22.1 (```conda install scikit-learn==0.22.1```)
-* [Scipy](https://www.scipy.org/) 1.4.1 (```conda install scipy==1.4.1```)
+Base comum a todas as aulas:
+
+* [OpenCV](https://opencv.org/) (```pip install opencv-contrib-python==5.0.0.93```)
+* [NumPy](https://numpy.org/) (```pip install numpy```)
+* [Matplotlib](https://matplotlib.org/) (```pip install matplotlib```)
+* [Seaborn](https://seaborn.pydata.org/) (```pip install seaborn```)
+* [Scikit Learn](https://scikit-learn.org/stable/) (```pip install scikit-learn```)
+* [Scipy](https://scipy.org/) (```pip install scipy```)
+
+Pacotes específicos, instalados dentro do próprio notebook de cada aula:
+
+* Aula 2 — [EasyOCR](https://github.com/JaidedAI/EasyOCR) (```pip install easyocr```)
+* Aula 3 — [qrcode](https://pypi.org/project/qrcode/) e [pyzbar](https://pypi.org/project/pyzbar/) (```pip install qrcode pyzbar```)
+* Aula 4 — [Dlib](http://dlib.net/), [MediaPipe](https://ai.google.dev/edge/mediapipe) (```pip install mediapipe==0.10.31```)
+* Aula 5 — [PyTorch](https://pytorch.org/), [Ultralytics](https://docs.ultralytics.com/) (YOLO11), [Transformers](https://huggingface.co/docs/transformers), [Diffusers](https://huggingface.co/docs/diffusers), [DeepFace](https://github.com/serengil/deepface) (```pip install deepface==0.0.74```), além de ```supervision```, ```roboflow```, ```visualkeras``` e ```tf-explain```
 
 _No Google Colab todas as dependências já estão instaladas. Já no Kaggle está indicando como instalar as dependências, sem dificuldades._ 😄
+
+_A Aula 5 usa modelos maiores (YOLO11, DETR, CLIP, Stable Diffusion e SAM). Rode em ambiente com GPU — no Colab, ative o acelerador em `Ambiente de execução > Alterar o tipo de ambiente de execução`._ 🚀
 
 Aulas no programa atualizado da disciplina:
 
@@ -53,9 +63,9 @@ Aulas no programa atualizado da disciplina:
 1. Introdução do OpenCV
 2. Instalação
 3. Formação de imagens
-4. Representação de cores
-5. Histograma
-6. Construção de imagens
+4. Espaços de cores (RGB, escala de cinza, HSV e LAB)
+5. Histogramas, equalização e comparação de imagens
+6. Construção de imagens (formas geométricas e textos)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-1-introducao-visao-computacional/introducao_visao_computacional.ipynb)
 
@@ -72,13 +82,15 @@ Aulas no programa atualizado da disciplina:
 
 ### Manipulação e transformação de imagens
 
-1. Transformações
+1. Transformações afins
 2. Translações
 3. Rotações
-4. Resizing
-5. Cropping
-6. Masking
-7. Suavização
+4. Redimensionamento e interpolação
+5. Transformação homográfica (não-afim)
+6. Recorte de imagens e região de interesse (ROI)
+7. Operações lógicas (_bitwise_) e filtro de cores em HSV
+8. _Template matching_
+9. Extra: OCR (Reconhecimento Óptico de Caracteres) com EasyOCR
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/transformacao-imagens.ipynb)
 
@@ -90,21 +102,24 @@ Aulas no programa atualizado da disciplina:
 2. Máscaras em imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-2/desafio-2.ipynb)
 
    
-3. Pipeline machine learning [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-3/desafio-3.ipynb)
+3. Classificador de imagens de dia e noite (_pipeline_ de machine learning) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/desafio-3/desafio-3.ipynb)
 
-4. Estudo de caso Classificacao de Imagens atraves do Histograma [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/estudo-caso-histograma/classifier_histogram.ipynb)
+4. Estudo de caso: reconhecimento de caracteres com histogramas de projeção [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-2-transformacao/estudo-caso-histograma/classifier_histogram.ipynb)
 
 
 ## Segmentação de imagens (Aula 3)
 
 ### Técnicas para segmentar e extrair artefatos e regiões de interesse de imagens
 
-1. Suavização
-2. Binarização
-3. Dilatação e Erosão
-4. Deteção de Borda
-4. Contornos
-5. Identificação de Formas
+1. Ruídos em imagens
+2. Suavização (média, mediana, gaussiano e filtros de ordem)
+3. Limiarização simples, de Otsu e adaptativa
+4. Operações morfológicas (dilatação e erosão)
+5. Detecção de bordas (Sobel, Laplaciano e Canny)
+6. Segmentação: crescimento de região, componentes conectados e contornos
+7. Casca convexa (_convex hull_) e identificação de formas
+8. Estudo de caso: manchas de óleo no Nordeste
+9. Bônus: esteganografia com LSB
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/segmentacao.ipynb)
 
@@ -114,7 +129,7 @@ Aulas no programa atualizado da disciplina:
 
 2. Limpeza de imagens [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-2/desafio-2.ipynb)
 
-2. Contando Moedas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-3/desafio-3.ipynb)
+3. Contando Moedas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-3-segmentacao/desafio-3/desafio-3.ipynb)
 
 
 
@@ -122,10 +137,13 @@ Aulas no programa atualizado da disciplina:
 
 ### Análise facial
 
-1. Classificadores em cascata de Haar
-2. Classificador de marcos faciais DLib
-3. Análise Facial
-4. Alinhamento de faces
+1. Classificadores em cascata de Haar (Viola-Jones)
+2. LBPH (_Local Binary Pattern Histogram_)
+3. Detecção com YuNet e reconhecimento por _embeddings_ com SFace
+4. Classificador de marcos faciais DLib e EAR (_Eye Aspect Ratio_)
+5. Alinhamento de faces
+6. MediaPipe FaceMesh, em imagem estática e em vídeo
+7. _Face swap_: como funciona, aplicações legítimas, riscos e ética
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-4-analise-facial/Valendo_de_classificacao_objetos_analise_facial.ipynb)
 
@@ -140,9 +158,14 @@ Aulas no programa atualizado da disciplina:
 
 ### Reconhecimento de imagens e objetos
 
-1. Reconhecimento de imagens utilizando redes neurais profundas
-2. Técnicas de transferência de aprendizado (*transfer learning*)
-3. Reconhecimento de objetos com YOLO (You Only See Once).
+1. Técnicas de transferência de aprendizado (*transfer learning*) com VGG19
+2. Detecção baseada em regiões (Faster R-CNN)
+3. Reconhecimento de objetos com YOLO11 (You Only Look Once), incluindo _fine-tuning_ e análise de métricas
+4. Vision Transformer (ViT) e DETR, detecção com Transformer
+5. CLIP e classificação _zero-shot_
+6. Geração de imagens com Stable Diffusion
+7. SAM (Segment Anything), segmentação por clique
+8. Síntese final: uma imagem, pipeline completo
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-5-machine-learning-aplicado/reconhecimento_de_imagens_e_objetos.ipynb)
 
@@ -151,6 +174,12 @@ Aulas no programa atualizado da disciplina:
 
 1. Detecção de Lixo em Ruas [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FIAPON/fiap-ml-visao-computacional/blob/main/aula-5-machine-learning-aplicado/desafio-1/desafio-1.ipynb)
     
+
+## Material extra
+
+Conteúdo complementar, fora do programa das aulas. Usa o utilitário Darknet, abordagem anterior à do YOLO11 visto na Aula 5 — vale como referência histórica de como era feito o _transfer learning_ em detecção de objetos.
+
+1. [Transfer Learning com YOLO e detecção de objetos](extra/yolo-transfer-learning-descriptors.ipynb)
 
 ## Capstones
 
@@ -163,4 +192,4 @@ Projetos de conclusão da disciplina aplicados.
 
 ## Agradecimentos:
 
-Esse repositório é baseado no repositório do prof. Michel, agradecemos ao ceder o uso dos programas bases. s2s2s2s2
+Esse repositório é baseado no repositório do prof. Michel, agradecemos ao ceder o uso dos programas bases.
